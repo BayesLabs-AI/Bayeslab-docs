@@ -2,7 +2,7 @@
 
 Bayeslab runs all of generated code in a prebuilt docker environment with the following config:
 
-* Ubuntu 3.0.3
+* Ubuntu 22.04
 * Python 3.9
 * Pre-installed packages (current)
   * beautifulsoup4 4.9.3
