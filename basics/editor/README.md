@@ -1,6 +1,6 @@
 # Editor
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Editor UI</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 7419@1x.jpg" alt=""><figcaption><p>Editor UI</p></figcaption></figure>
 
 
 

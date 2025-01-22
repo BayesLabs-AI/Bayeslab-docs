@@ -22,7 +22,7 @@ layout:
 
 After login, you'll see below:
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Main Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/组 7418@1x.jpg" alt=""><figcaption><p>Main Page</p></figcaption></figure>
 
 The main functions are:
 
@@ -118,7 +118,7 @@ You can reference this data in another block using double back slash ( // ) , an
 
 Then click run or use Ctrl+Enter (Command +Enter), AI will parse the requirement and try execute.
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>AI Block with Result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/组 7420@1x.jpg" alt=""><figcaption><p>AI Block with Result</p></figcaption></figure>
 
 The result consists of several parts:
 

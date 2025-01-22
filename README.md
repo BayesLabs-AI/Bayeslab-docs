@@ -53,7 +53,7 @@ Bayeslab is a notebook style editor which follows [Literate Programming](https:/
 * **Block based**
   * The notebook is organized into a sequence of blocks representing step by step exploration nature of data analysis. (If you've used [Jupyter](https://jupyter.org/) before, this should be almost identical)
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption><p>Sample of an AI block</p></figcaption></figure>
+<figure><img src=".gitbook/assets/组 7417@1x.jpg" alt=""><figcaption><p>Sample of an AI block</p></figcaption></figure>
 
 
 
